@@ -1,6 +1,5 @@
 # Lab2-NLP
 
-# Synthesis of My Learnings
 
 ## Part 1: Rule-Based NLP and Regex
 
